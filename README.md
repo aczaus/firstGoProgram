@@ -15,3 +15,6 @@ This module is going from greetings to hello (our main package).<br>
 <h2>Testing Your App:</h2>
 To make a test file you will (in the greetings dir) create a file called greetings_test.go. Essentially add the _test suffix to any file that you would like to test within the specific package you would like to test within.<br><br>
 You will import the test module and create the test function with the pattern of Test[function-and-scenario-to-test](t *testing.T).
+<br><br>
+<h2>Dockerization and Microservices: </h2>
+tbd....
